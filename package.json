@@ -1,0 +1,19 @@
+{
+  "name": "productnextmaterialui",
+  "version": "1.0.0",
+  "description": "Server using Next.JS and Material Ui",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SebbyC/NextJS-MaterialUI.git"
+  },
+  "author": "Sebastian Jorge Colon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SebbyC/NextJS-MaterialUI/issues"
+  },
+  "homepage": "https://github.com/SebbyC/NextJS-MaterialUI#readme"
+}
